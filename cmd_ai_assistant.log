@@ -1,0 +1,47 @@
+2025-11-15 13:50:58,968 - INFO - Command: pip install tensorflow | Success: True
+2025-11-15 13:51:06,788 - INFO - Command: pepe install tensorflew | Success: False
+2025-11-15 13:51:06,788 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 13:51:06,964 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-2.5-turbo is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods..
+2025-11-15 13:51:09,092 - ERROR - Gemini API error: 404 models/gemini-2.5-turbo is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-15 13:51:09,092 - INFO - Added to KB: pepe install tensorflew... | Model: gemini
+2025-11-15 13:52:41,598 - INFO - Command: hi | Success: False
+2025-11-15 13:52:41,598 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 13:52:41,741 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-2.5-turbo is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods..
+2025-11-15 13:52:43,854 - ERROR - Gemini API error: 404 models/gemini-2.5-turbo is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-15 13:52:43,854 - INFO - Added to KB: hi... | Model: gemini
+2025-11-15 13:54:31,139 - INFO - Command: pip install tensorflew | Success: True
+2025-11-15 14:05:52,750 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-15 14:05:52,750 - ERROR - Ollama not available: 'name'
+2025-11-15 14:06:12,115 - INFO - Command: pepe install | Success: False
+2025-11-15 14:06:12,116 - ERROR - Unexpected error: name 'load_kb' is not defined
+2025-11-15 14:07:07,012 - INFO - Command: pep instiall | Success: False
+2025-11-15 14:11:04,259 - INFO - Command: peep install | Success: False
+2025-11-15 14:13:03,271 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-15 14:13:03,271 - ERROR - Ollama not available: 'name'
+2025-11-15 14:13:07,853 - INFO - Command: pep instal | Success: False
+2025-11-15 14:13:07,853 - ERROR - Unexpected error: name 'load_kb' is not defined
+2025-11-15 14:14:57,207 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-15 14:14:57,207 - ERROR - Ollama not available: 'name'
+2025-11-15 14:15:00,872 - INFO - Command: epep instal | Success: False
+2025-11-15 14:18:59,143 - INFO - Command: pep install | Success: False
+2025-11-15 14:18:59,143 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 14:18:59,333 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods..
+2025-11-15 14:19:01,441 - ERROR - Gemini API error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-15 14:19:01,457 - INFO - Added to KB: pep install... | Model: gemini
+2025-11-15 14:19:56,538 - INFO - Command: exot | Success: False
+2025-11-15 14:19:56,554 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 14:19:56,682 - WARNING - Retrying langchain_google_genai.chat_models._chat_with_retry.<locals>._chat_with_retry in 2.0 seconds as it raised NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods..
+2025-11-15 14:19:58,807 - ERROR - Gemini API error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-11-15 14:19:58,811 - INFO - Added to KB: exot... | Model: gemini
+2025-11-15 14:20:14,003 - INFO - Command: peep install | Success: False
+2025-11-15 14:20:51,772 - INFO - Command: peep install | Success: False
+2025-11-15 14:20:51,772 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 14:20:58,016 - INFO - Added to KB: peep install... | Model: gemini
+2025-11-15 14:21:54,771 - INFO - Command: pip install dhesh | Success: False
+2025-11-15 14:21:54,787 - ERROR - Local LLM error: module 'signal' has no attribute 'SIGALRM'
+2025-11-15 14:22:04,444 - INFO - Added to KB: pip install dhesh... | Model: gemini
+2025-11-17 20:41:15,577 - INFO - Command: pepe ronaldo siu install | Success: False
+2025-11-17 20:41:29,575 - INFO - Command: pi install | Success: False
+2025-11-20 14:56:40,141 - INFO - Command: pip install how do i manage storage | Success: False
+2025-11-20 14:57:25,480 - INFO - Command: pip install tensorflow | Success: True
+2025-11-28 12:08:30,133 - INFO - Command: pip install tensorflow | Success: True
